@@ -1,8 +1,8 @@
 # hello_world
 
 Nama  : Nur Mahar Aji
-NIM   : 190103194
-Kelas : TI-19B1
+| NIM   : 190103194
+| Kelas : TI-19B1
 
 ## Getting Started
 
