@@ -1,6 +1,8 @@
 # hello_world
 
-A new Flutter project.
+Nama  : Nur Mahar Aji
+NIM   : 190103194
+Kelas : TI-19B1
 
 ## Getting Started
 
